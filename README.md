@@ -1,4 +1,6 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+# NAME - NANDHINI M
+# RFRERENCE NUMBER - 24900996
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
